@@ -5,4 +5,4 @@
 
 저장소에 대한 소개글을 작성합니다.
 
-![고양이](.images/cat.jpg)
+![고양이](.images/cat.png)
